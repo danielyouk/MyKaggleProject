@@ -7,14 +7,27 @@ __pycache__/
 .venv/
 venv/
 ENV/
+data/
+experiments/
 
 # Data files and specific data folders
 *.csv
 *.npy
 *.zip
 *.parquet
+*.pth
+*.pt
+*.pkl
+*.pt
+*.pth
+*.pt
+*.pkl
 # Competition data folder
 Yale_UNC-CH_Geophysical_Waveform_Inversion/waveform_inversion_data/
+Yale_UNC-CH_Geophysical_Waveform_Inversion/data/
+Yale_UNC-CH_Geophysical_Waveform_Inversion/experiments/
+Yale_UNC-CH_Geophysical_Waveform_Inversion/fva_l1.pth
+Yale_UNC-CH_Geophysical_Waveform_Inversion/fvb_l1.pth
 
 # IDEs and editors
 .idea/
