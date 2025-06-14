@@ -1,0 +1,16 @@
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+torchaudio==2.1.2+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+tqdm>=4.64.0
+numpy<2
+pandas
+scikit-learn
+matplotlib
+notebook
+kaggle
+ipykernel
+tensorboard
+# Add your project dependencies here
+# Example:
+# requests>=2.25.1 
